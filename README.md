@@ -1,0 +1,13 @@
+#hướng dẫn
+#lưu ý tool chỉ dành cho PC
+
+Đầu tiên ae vào file text-nzk.txt thấy nội dung 
+
+1 hàng tương đương với spam 1 lần muốn spam bao nhiêu lần thì ghi bấy nhiêu lần 
+sau khi thay Nd tiến hành lưu lại và chạy file main.py 
+khi nhấn enter để chạy file main thì hãy di chuyển con trỏ chuột vào ô nhập tin nhắn
+như ô nhập tin nhắn của mess, tele, Zalo,... CX có thể spam ở bất cứ đâu miễn là nhập đc nội đứng như ô comment của FB,...
+
+tool lỏ by nearzek !
+#zalo 0367983792
+#tele nearzekdev
